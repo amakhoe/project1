@@ -1,15 +1,10 @@
-# Getting Started with Create React App
+esta e uma landing page usando o react js e tailwindcss
+depois de clonado o pagina, queira por favor instalar todas as dependencias usado o
+### `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+para correr a pagina use os seguintes comandos
+### `npm run start` 
+abra o [http://localhost:3000](http://localhost:3000) para visualizar a pagina.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
